@@ -4,7 +4,7 @@ ALOHA and Welcome!
 
 This is another one of my projects (more on the hardware side of things). I used this project to help me understand computers at a lower level and apply the concepts of hardware design and low level programming I learned in class.
 
-While highly inspired by Ben Eater's 6502, there are a few things I added on my own (more to come...) 6502 that I thought would be good enough to post on Github.
+While highly inspired by Ben Eater's 6502, there are a few things I added on my own to the 6502 which I thought would be good enough to post on Github.
 
 Some of the features include:  
   1. 6502 initialization code (Registers, I/O, RAM, ROM)
